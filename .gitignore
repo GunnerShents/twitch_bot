@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 .env
 env/
+=======
+env/
+.env
+>>>>>>> 227fd5f (first commit)
 to_do.txt
